@@ -1,0 +1,7 @@
+{
+  "name": "mercado",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
